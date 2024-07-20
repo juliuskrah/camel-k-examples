@@ -1,5 +1,7 @@
 # Camel K integration for GitHub
 
+> moved to <https://github.com/juliuskrah/experiments/camel-k-examples>
+
 Run the application in dev mode
 
 <details>
