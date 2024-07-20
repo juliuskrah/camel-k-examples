@@ -1,6 +1,6 @@
 # Camel K integration for GitHub
 
-> moved to <https://github.com/juliuskrah/experiments/camel-k-examples>
+> moved to <[https://github.com/juliuskrah/experiments/camel-k-examples](https://github.com/juliuskrah/experiments/tree/main/quarkus-native-demo)>
 
 Run the application in dev mode
 
